@@ -1,0 +1,7 @@
+{
+  "name": "Luminary Flow",
+  "description": "An interactive digital fluid art installation powered by Gemini and Hand Tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
